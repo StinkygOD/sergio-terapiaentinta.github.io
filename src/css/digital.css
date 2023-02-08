@@ -77,12 +77,11 @@ body {
   margin-left: 85px;
 }
 
-.blog-elements-1{
+.blog-elements-1 {
   height: auto;
 }
 
 .blog-elements-1 img {
-  
   height: 100%;
   width: 1280px;
   margin-top: 20px;
@@ -102,84 +101,84 @@ body {
   -o-border-radius: 5px;
 }
 
-#active{
+#active {
   color: #ff9f63;
 }
 
-.blog-elements-2 img{
-    margin-top: 10px;
-    margin-left: 0px;
+.blog-elements-2 img {
+  margin-top: 10px;
+  margin-left: 0px;
 }
 
-#afiche{
-    margin-top: 20px;
-    width: 680px;
-    margin-left: 0px;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+#afiche {
+  margin-top: 20px;
+  width: 680px;
+  margin-left: 0px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
 }
 
-#yerbas{
-    transform: translate(19%, -110%);
-    width: 500px;
-    margin-left: 0px;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
-    -webkit-transform: translate(19%, -110%);
-    -moz-transform: translate(19%, -110%);
-    -ms-transform: translate(19%, -110%);
-    -o-transform: translate(19%, -110%);
+#yerbas {
+  transform: translate(19%, -110%);
+  width: 500px;
+  margin-left: 0px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  -webkit-transform: translate(19%, -110%);
+  -moz-transform: translate(19%, -110%);
+  -ms-transform: translate(19%, -110%);
+  -o-transform: translate(19%, -110%);
 }
 
-#guayaba{
-    transform: translate(1%, 0%);
-    border-radius: 5px;
-    width: 500px;
-    margin-left: -410px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
-    -webkit-transform: translate(1%, 0%);
-    -moz-transform: translate(1%, 0%);
-    -ms-transform: translate(1%, 0%);
-    -o-transform: translate(1%, 0%);
+#guayaba {
+  transform: translate(1%, 0%);
+  border-radius: 5px;
+  width: 500px;
+  margin-left: -410px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  -webkit-transform: translate(1%, 0%);
+  -moz-transform: translate(1%, 0%);
+  -ms-transform: translate(1%, 0%);
+  -o-transform: translate(1%, 0%);
 }
 
-.blog-elements-3 img{
-    border-radius: 5px;
-    margin-top: 20px;
-    margin-left: 0px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+.blog-elements-3 img {
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 0px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
 }
 
-#abejas{
-    transform: translate(-12%, 0%);
-    margin-left: -17px;
-    width: 600px;
-    -webkit-transform: translate(-12%, 0%);
-    -moz-transform: translate(-12%, 0%);
-    -ms-transform: translate(-12%, 0%);
-    -o-transform: translate(-12%, 0%);
+#abejas {
+  transform: translate(-12%, 0%);
+  margin-left: -17px;
+  width: 600px;
+  -webkit-transform: translate(-12%, 0%);
+  -moz-transform: translate(-12%, 0%);
+  -ms-transform: translate(-12%, 0%);
+  -o-transform: translate(-12%, 0%);
 }
 
-#peru{
-    transform: translate(16%, 0%);
-    margin-right: -13px;
-    width: 521px;
-    -webkit-transform: translate(16%, 0%);
-    -moz-transform: translate(16%, 0%);
-    -ms-transform: translate(16%, 0%);
-    -o-transform: translate(16%, 0%);
+#peru {
+  transform: translate(16%, 0%);
+  margin-right: -13px;
+  width: 521px;
+  -webkit-transform: translate(16%, 0%);
+  -moz-transform: translate(16%, 0%);
+  -ms-transform: translate(16%, 0%);
+  -o-transform: translate(16%, 0%);
 }
 
 #recurso-22 {

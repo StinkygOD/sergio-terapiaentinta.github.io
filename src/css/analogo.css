@@ -101,14 +101,13 @@ body {
   margin-left: 0px;
   margin-top: 20px;
   width: 500px;
-  -webkit-border-radius:5px;
-  -moz-border-radius:5px;
-  -ms-border-radius:5px;
-  -o-border-radius:5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
 }
 
-
-#lata{
+#lata {
   width: 555px;
 }
 
