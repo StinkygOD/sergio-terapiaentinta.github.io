@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: "Roboto Slab", serif;
+}
+
+body {
+  background-color: #fff;
+}
+
+#recurso-1 {
+  width: 100%;
+  z-index: -1;
+}
+
+#logo-123 {
+  opacity: 0.8;
+  width: 13%;
+  z-index: 2;
+  position: absolute;
+  margin-left: -1100px;
+  transform: translate(18%, 0%);
+  margin-top: 80px;
+  -webkit-transform: translate(18%, 0%);
+  -moz-transform: translate(18%, 0%);
+  -ms-transform: translate(18%, 0%);
+  -o-transform: translate(18%, 0%);
+}
+
+#sergio-hr {
+  z-index: 3;
+  position: absolute;
+  opacity: 0.6;
+  width: 101%;
+  margin-left: -990px;
+  margin-top: -199px;
+}
+
+.header {
+  align-items: center;
+  padding: 0 40px;
+  white-space: nowrap;
+  height: 60px;
+  font-size: 14px;
+  justify-content: space-between;
+  font-family: "Roboto Slab", serif;
+  font-weight: 800;
+}
+
+.header-menu {
+  font-family: "Roboto Slab", serif;
+  font-weight: 800;
+}
+
+.header-menu a {
+  font-family: "Roboto Slab", serif;
+  font-weight: 800;
+  font-size: 20px;
+  text-decoration: none;
+  color: #25282d;
+  transition: color 1s ease 0s;
+  -webkit-transition: color 1s ease 0s;
+  -moz-transition: color 1s ease 0s;
+  -ms-transition: color 1s ease 0s;
+  -o-transition: color 1s ease 0s;
+}
+
+.header-menu a:hover {
+  color: #616a72;
+}
+
+#active {
+  color: #ff9f63;
+}
+
+.header-menu a:not(:first-child) {
+  margin-left: 85px;
+}
+
+#camellando{
+  margin-top: 150px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 300;
+  letter-spacing: 30px;
+  color: #ff9f63;
+}
+
+#recurso-22 {
+  width: 100%;
+  margin-top: 180px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -90px;
+  margin-top: -170px;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.links i {
+  color: #fff;
+  margin-left: 80px;
+  font-size: 50px;
+  transition: color 0.2s ease 0s;
+  -webkit-transition: color 0.2s ease 0s;
+  -moz-transition: color 0.2s ease 0s;
+  -ms-transition: color 0.2s ease 0s;
+  -o-transition: color 0.2s ease 0s;
+}
+
+.links i:hover {
+  color: #ff9f63;
+}
